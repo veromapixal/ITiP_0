@@ -4,8 +4,8 @@ def start(name):
     print('2...')
     print('1...')
     print('ready?')
-    print('steady')
-    print('GO!')
+    print('not ready')
+    print('start')
 
 
 start(input())
