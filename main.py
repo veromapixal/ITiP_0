@@ -4,7 +4,7 @@ def start(name):
     print('2...')
     print('1...')
     print('ready?')
-    print('...')
+    print('555')
     print('start')
 
 
